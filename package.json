@@ -1,5 +1,13 @@
 {
-  "name" : "codefellows-notes",
-  "description" : "a simple full stack notes app for instruction",
-  "version" : "0.0.0"
+  "name": "codefellows-notes",
+  "description": "a simple full stack notes app for instruction",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.6.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-http": "^0.4.0",
+    "mocha": "^1.20.1"
+  }
 }
