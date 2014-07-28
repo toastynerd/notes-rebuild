@@ -3,7 +3,9 @@
   "description": "a simple full stack notes app for instruction",
   "version": "0.0.0",
   "dependencies": {
-    "express": "^4.6.1"
+    "body-parser": "^1.5.2",
+    "express": "^4.6.1",
+    "mongoose": "^3.8.14"
   },
   "devDependencies": {
     "chai": "^1.9.1",
